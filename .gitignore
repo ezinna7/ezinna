@@ -1,0 +1,9 @@
+*/_vendor/*
+
+*.pyc
+*`
+__pycache__
+myfirstvirtualenvironment
+db.sqlite3
+/static
+.DS_Store
